@@ -1,0 +1,13 @@
+.side-by-side {
+  width: 100%;
+  float: left;
+}
+
+.side-by-side section {
+  width: 50%;
+  float: left;
+}
+
+.wrapper {
+  height: auto;
+}
